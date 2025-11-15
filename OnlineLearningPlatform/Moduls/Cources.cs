@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace OnlineLearningPlatform.OnlineLearningPlatform.Moduls
 {
+
     public class Cources
     {
         public int Id { get; set; }
